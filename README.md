@@ -1,5 +1,4 @@
-
-# 2010 MobiCASE Conference Poster
+# 2010 MobiCASE Conference Paper
 
 3D Audio Interface for Rich Mobile Web Experiences
 
