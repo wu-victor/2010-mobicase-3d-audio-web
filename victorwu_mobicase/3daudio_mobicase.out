@@ -1,0 +1,26 @@
+\BOOKMARK [0][]{section*.1}{3D Audio Interface for Rich Mobile Web Experiences}{}
+\BOOKMARK [0][]{section*.1}{Victor K.Y. Wu and Roy H. Campbell}{}
+\BOOKMARK [1][]{section.2}{Introduction}{section*.1}
+\BOOKMARK [1][]{section.4}{Motivations and Related Work}{section*.1}
+\BOOKMARK [2][-]{subsection.5}{Rich Mobile Web Experiences from a Truly Pervasive Web}{section.4}
+\BOOKMARK [2][-]{subsection.6}{Enabling Technologies}{section.4}
+\BOOKMARK [2][-]{subsection.7}{Enabling Human Factors}{section.4}
+\BOOKMARK [2][-]{subsection.8}{Digital Systems for the Visually Impaired}{section.4}
+\BOOKMARK [1][]{section.9}{Applications}{section*.1}
+\BOOKMARK [2][-]{subsection.10}{Media Converters and Players}{section.9}
+\BOOKMARK [2][-]{subsection.11}{Productivity}{section.9}
+\BOOKMARK [2][-]{subsection.12}{Location-Based}{section.9}
+\BOOKMARK [1][]{section.14}{System Designs}{section*.1}
+\BOOKMARK [2][-]{subsection.15}{Movable 3D Audio Spaces}{section.14}
+\BOOKMARK [2][-]{subsection.16}{Sound Stream Prioritization}{section.14}
+\BOOKMARK [2][-]{subsection.17}{Sound Encoding}{section.14}
+\BOOKMARK [1][]{section.19}{System Architecture}{section*.1}
+\BOOKMARK [2][-]{subsection.20}{Overview}{section.19}
+\BOOKMARK [2][-]{subsection.21}{Audio Spaces Engine \(ASE\)}{section.19}
+\BOOKMARK [2][-]{subsection.22}{Non-optimized Websites}{section.19}
+\BOOKMARK [2][-]{subsection.27}{Audio-Optimized Websites}{section.19}
+\BOOKMARK [1][]{section.29}{Implementation}{section*.1}
+\BOOKMARK [2][-]{subsection.33}{Prototype Design and Functionality}{section.29}
+\BOOKMARK [2][-]{subsection.34}{Audio Implementation Details}{section.29}
+\BOOKMARK [1][]{section.35}{Conclusion and Future Work}{section*.1}
+\BOOKMARK [1][]{section*.37}{References}{section*.1}
